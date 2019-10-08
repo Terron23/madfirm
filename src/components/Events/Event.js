@@ -15,8 +15,8 @@ function Event() {
       </div>
       <div className="col-xl-4 col-lg-5">
         <div className="featured-text text-center text-lg-left">
-          <h4>Upcoming Event</h4>
-          <p className="text-black-50 mb-0"></p>
+          <h4>Upcoming Event {Date.now}</h4>
+          <p className="text-black-50 mb-0">Mad Firm Promotions Parties and Events</p>
         </div>
       </div>
     </div>
@@ -31,8 +31,8 @@ function Event() {
           <div class="bg-black text-center h-100 project">
             <div class="d-flex h-100">
               <div class="project-text w-100 my-auto text-center text-lg-right">
-                <h4 class="text-white">Mountains</h4>
-                <p class="mb-0 text-white-50">Another example of a project with its respective description. These sections work well responsively as well, try this theme on a small screen!</p>
+                <h4 class="text-white">Upcomin Events</h4>
+                <p class="mb-0 text-white-50">Mad Firm Promotions Parties and Events</p>
                 <hr class="d-none d-lg-block mb-0 mr-0" />
               </div>
             </div>
@@ -49,8 +49,8 @@ function Event() {
           <div class="bg-black text-center h-100 project">
             <div class="d-flex h-100">
               <div class="project-text w-100 my-auto text-center text-lg-left">
-                <h4 class="text-white">Misty</h4>
-                <p class="mb-0 text-white-50">An example of where you can put an image of a project, or anything else, along with a description.</p>
+              <h4 class="text-white">Upcomin Events</h4>
+                <p class="mb-0 text-white-50">Mad Firm Promotions Parties and Events</p>
                 <hr class="d-none d-lg-block mb-0 ml-0" />
               </div>
             </div>
@@ -68,8 +68,8 @@ function Event() {
           <div class="bg-black text-center h-100 project">
             <div class="d-flex h-100">
               <div class="project-text w-100 my-auto text-center text-lg-right">
-                <h4 class="text-white">Mountains</h4>
-                <p class="mb-0 text-white-50">Another example of a project with its respective description. These sections work well responsively as well, try this theme on a small screen!</p>
+              <h4 class="text-white">Upcomin Events</h4>
+                <p class="mb-0 text-white-50">Mad Firm Promotions Parties and Events</p>
                 <hr class="d-none d-lg-block mb-0 mr-0" />
               </div>
             </div>
