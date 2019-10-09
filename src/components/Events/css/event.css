@@ -1,9 +1,14 @@
+#projects{
+  background: #161616;
+}
+
 .projects-section {
   padding: 10rem 0;
 }
 
 .projects-section .featured-text {
   padding: 2rem;
+  color: white;
 }
 
 @media (min-width: 992px) {
