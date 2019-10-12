@@ -23,7 +23,7 @@ function Event() {
 
 
 
-    <div className="row justify-content-center no-gutters">
+    {/* <div className="row justify-content-center no-gutters">
         <div className="col-lg-6">
         <img className="img-fluid mb-3 mb-lg-0" src={`${fly2}`} alt="" />
         </div>
@@ -79,7 +79,8 @@ function Event() {
 
 
 
-  </div>
+*/}
+  </div> 
 </section>
     
   );

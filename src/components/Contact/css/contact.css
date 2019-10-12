@@ -6,6 +6,9 @@
   .contact-section .card {
     border: 0;
     border-bottom: 0.25rem solid #64a19d;
+    border-top: 0.25rem solid #64a19d;
+    background-color: #161616;
+    color: white;
   }
   
   .contact-section .card h4 {
@@ -13,6 +16,7 @@
     font-family: 'Varela Round';
     text-transform: uppercase;
     letter-spacing: 0.15rem;
+    color: white;
   }
   
   .contact-section .card hr {
@@ -36,7 +40,7 @@
   }
   
   .contact-section .social a:hover {
-    color: rgba(255, 255, 255, 0.5);
+    color: rgba(255, 255, 255, .9);
   }
   
   .contact-section .social a:active {

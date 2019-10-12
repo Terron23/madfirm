@@ -6,10 +6,11 @@ import logo from './img/celon_logo.png';
 
 function Nav() {
     return (
-        <nav className="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+        <nav className="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
         <div className="container">
           <a className="navbar-brand js-scroll-trigger" href="#page-top"><img style={{"width": "20%"}} src={`${logo}`} /></a>
-          <button className="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <button className="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" 
+          data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             Menu
             <i className="fas fa-bars"></i>
           </button>
