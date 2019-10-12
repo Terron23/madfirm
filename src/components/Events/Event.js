@@ -1,6 +1,6 @@
 import React from 'react';
 import './css/event.css';
-import fly2 from './img/golden-flyer.JPG';
+import fly2 from './img/golden-flyer2.JPG';
 
 
 function Event() {
