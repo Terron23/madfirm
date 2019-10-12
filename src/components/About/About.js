@@ -10,7 +10,7 @@ function About() {
     <div className="container">
     <video width="100%" controls poster={`${poster}`}>
       <source src={`${aboutVid}`} type="video/mp4" />
-      Your browser does not support HTML5 video.
+      Your browser does not support video.
     </video>
 
     <div className="row">
