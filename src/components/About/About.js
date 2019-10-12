@@ -3,11 +3,12 @@ import './css/about.css';
 import aboutImg from './img/love_below.png';
 import logo from './img/celon_log.PNG';
 import aboutVid from './video/celon_vid.mov'
+import poster from './img/poster.jpg'
 
 function About() {
   return (<section id="about" className="about-section text-center">
     <div className="container">
-    <video width="100%" controls autoplay>
+    <video width="100%" controls poster={`${poster}`}>
       <source src={`${aboutVid}`} type="video/mp4" />
       Your browser does not support HTML5 video.
     </video>
