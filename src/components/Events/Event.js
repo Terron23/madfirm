@@ -1,24 +1,22 @@
 import React from 'react';
 import './css/event.css';
-import fly1 from './img/casual-flyer.jpeg';
-import fly2 from './img/golden-flyer.jpg';
-import fly3 from './img/night-flyer.jpeg';
-import fly4 from './img/party-flyer.jpg';
+import fly2 from './img/golden-flyer.JPG';
+
 
 function Event() {
   return (  <section id="projects" className="projects-section">
   <div className="container">
 
     <div className="row align-items-center no-gutters mb-4 mb-lg-5">
-      <div className="col-xl-7 col-lg-7">
+      <div className="col-xl-12 col-lg-7">
         <img className="img-fluid mb-3 mb-lg-0" src={`${fly2}`} alt="" />
       </div>
-      <div className="col-xl-4 col-lg-5">
+      {/* <div className="col-xl-4 col-lg-5">
         <div className="featured-text text-center text-lg-left">
           <h3>Upcoming Event </h3>
           <p className="text-white-50 mb-0">Mad Firm Promotions Parties and Events</p>
         </div>
-      </div>
+      </div> */}
     </div>
 
 

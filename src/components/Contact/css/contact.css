@@ -5,8 +5,8 @@
   
   .contact-section .card {
     border: 0;
-    border-bottom: 0.25rem solid #64a19d;
-    border-top: 0.25rem solid #64a19d;
+    border-bottom: 0.25rem solid #6c4521;
+    border-top: 0.25rem solid #6c4521;
     background-color: #161616;
     color: white;
   }
@@ -20,7 +20,7 @@
   }
   
   .contact-section .card hr {
-    border-color: #64a19d;
+    border-color: #6c4521;
     border-width: 0.25rem;
     width: 3rem;
   }
@@ -47,3 +47,7 @@
     color: #fff;
   }
   
+  .celon-text{
+    color: #6c4521 !important;
+    font-size: 25px;
+  }

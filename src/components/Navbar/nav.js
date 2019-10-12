@@ -1,6 +1,6 @@
 import React from 'react';
 import './css/nav.css';
-import logo from './img/celon_logo.png';
+import logo from './img/celon_log.PNG';
 
 
 

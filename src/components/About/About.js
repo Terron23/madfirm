@@ -1,7 +1,7 @@
 import React from 'react';
 import './css/about.css';
 import aboutImg from './img/love_below.png';
-import logo from './img/celon_logo.png';
+import logo from './img/celon_log.PNG';
 import aboutVid from './video/celon_vid.mov'
 
 function About() {
